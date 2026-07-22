@@ -1,4 +1,4 @@
-package com.example.javaeight.strings;
+package com.playground.java.strings;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.example.javaeight.algorithms.strings;
+package com.playground.java.algorithms.strings;
 
 import java.util.Stack;
 

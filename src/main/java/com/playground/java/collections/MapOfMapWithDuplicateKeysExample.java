@@ -1,4 +1,4 @@
-package com.example.javaeight.collections;
+package com.playground.java.collections;
 
 import java.util.HashMap;
 import java.util.Map;

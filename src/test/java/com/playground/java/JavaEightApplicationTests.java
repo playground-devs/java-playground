@@ -1,4 +1,4 @@
-package com.example.javaeight;
+package com.playground.java;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

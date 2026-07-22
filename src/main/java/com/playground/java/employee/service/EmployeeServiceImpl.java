@@ -1,6 +1,6 @@
-package com.example.javaeight.employee.service;
+package com.playground.java.employee.service;
 
-import com.example.javaeight.employee.model.Employee;
+import com.playground.java.employee.model.Employee;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;

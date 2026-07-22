@@ -1,6 +1,6 @@
-package com.example.javaeight.employee.service;
+package com.playground.java.employee.service;
 
-import com.example.javaeight.employee.model.EmployeeOne;
+import com.playground.java.employee.model.EmployeeOne;
 
 import java.util.*;
 import java.util.function.Function;

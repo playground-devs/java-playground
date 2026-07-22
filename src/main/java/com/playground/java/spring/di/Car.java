@@ -1,4 +1,4 @@
-package com.example.javaeight.spring.di;
+package com.playground.java.spring.di;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

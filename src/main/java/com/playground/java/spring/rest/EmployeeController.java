@@ -1,4 +1,4 @@
-package com.example.javaeight.spring.rest;
+package com.playground.java.spring.rest;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

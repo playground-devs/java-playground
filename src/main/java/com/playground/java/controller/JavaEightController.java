@@ -1,4 +1,4 @@
-package com.example.javaeight.controller;
+package com.playground.java.controller;
 
 public class JavaEightController {
 }

@@ -1,4 +1,4 @@
-package com.example.javaeight.streams;
+package com.playground.java.streams;
 
 import java.util.Arrays;
 import java.util.List;

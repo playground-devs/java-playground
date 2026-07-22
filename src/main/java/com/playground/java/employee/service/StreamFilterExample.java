@@ -1,5 +1,5 @@
-package com.example.javaeight.employee.service;
-import com.example.javaeight.spring.rest.Employee;
+package com.playground.java.employee.service;
+import com.playground.java.spring.rest.Employee;
 
 import java.util.Arrays;
 import java.util.Comparator;

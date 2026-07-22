@@ -1,4 +1,4 @@
-package com.example.javaeight.spring.rest;
+package com.playground.java.spring.rest;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;

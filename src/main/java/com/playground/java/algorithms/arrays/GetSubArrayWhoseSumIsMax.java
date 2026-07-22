@@ -1,4 +1,4 @@
-package com.example.javaeight.algorithms.arrays;
+package com.playground.java.algorithms.arrays;
 import java.util.*;
 
 

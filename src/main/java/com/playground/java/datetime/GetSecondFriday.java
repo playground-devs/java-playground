@@ -1,4 +1,4 @@
-package com.example.javaeight.datetime;
+package com.playground.java.datetime;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

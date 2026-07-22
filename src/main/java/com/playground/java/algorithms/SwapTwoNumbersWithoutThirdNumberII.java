@@ -1,4 +1,4 @@
-package com.example.javaeight.algorithms;
+package com.playground.java.algorithms;
 
 public class SwapTwoNumbersWithoutThirdNumberII {
     public static int[] swap(int a,int b){

@@ -1,4 +1,4 @@
-package com.example.javaeight.datastructures;
+package com.playground.java.datastructures;
 
 import java.util.ArrayList;
 import java.util.Arrays;

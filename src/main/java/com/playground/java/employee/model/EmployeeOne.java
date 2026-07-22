@@ -1,4 +1,4 @@
-package com.example.javaeight.employee.model;
+package com.playground.java.employee.model;
 
 import lombok.*;
 

@@ -1,4 +1,4 @@
-package com.example.javaeight.spring.rest;
+package com.playground.java.spring.rest;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

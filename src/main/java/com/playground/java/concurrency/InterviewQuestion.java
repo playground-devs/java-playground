@@ -1,4 +1,4 @@
-package com.example.javaeight.concurrency;
+package com.playground.java.concurrency;
 
 import java.util.ArrayList;
 import java.util.List;
