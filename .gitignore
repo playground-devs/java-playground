@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.project
+.settings/
+.classpath
+
+# macOS
+.DS_Store
+src/**/.DS_Store
+
+# AIForce / Claude
+.aiforce_session.json
+.claude/
+
+# Logs
+*.log
