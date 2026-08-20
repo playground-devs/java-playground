@@ -1,2 +1,2 @@
-# java-eight
-Java eight examples 
+# java-playground
+Java examples
